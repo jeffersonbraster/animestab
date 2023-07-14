@@ -1,0 +1,22 @@
+{
+  "name": "AnimesTab",
+  "version": "1.0.0",
+  "description": "Um portal de noticias para todos os amantes de animes e cultura pop",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
